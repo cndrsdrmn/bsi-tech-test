@@ -1,0 +1,42 @@
+[
+  {
+    "ID": 1,
+    "Customer_ID": "21",
+    "Transaction_Date": "30/7/19"
+  },
+  {
+    "ID": 2,
+    "Customer_ID": "15",
+    "Transaction_Date": "21/7/19"
+  },
+  {
+    "ID": 3,
+    "Customer_ID": "16",
+    "Transaction_Date": "18/7/19"
+  },
+  {
+    "ID": 4,
+    "Customer_ID": "20",
+    "Transaction_Date": "22/7/19"
+  },
+  {
+    "ID": 5,
+    "Customer_ID": "15",
+    "Transaction_Date": "15/7/19"
+  },
+  {
+    "ID": 6,
+    "Customer_ID": "20",
+    "Transaction_Date": "12/7/19"
+  },
+  {
+    "ID": 7,
+    "Customer_ID": "15",
+    "Transaction_Date": "21/7/19"
+  },
+  {
+    "ID": 8,
+    "Customer_ID": "20",
+    "Transaction_Date": "12/7/19"
+  }
+]
